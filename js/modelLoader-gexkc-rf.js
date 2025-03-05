@@ -1,0 +1,1 @@
+import{y as e,z as o,aL as n}from"./three-U1z093Ie.js";const r=function(n){return new Promise((r=>{const s=new e,t=new o;t.setDecoderPath("./draco/"),s.setDRACOLoader(t),s.load(n,(e=>{r(e)}))}))},s=function(e){return new Promise((o=>{(new n).load(e,(e=>{o(e)}))}))};export{r as g,s as o};
