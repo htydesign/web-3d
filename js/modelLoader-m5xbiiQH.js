@@ -1,0 +1,1 @@
+import{q as e,I as n,aO as o,F as r}from"./three-BwxZCoz6.js";const s=function(o){return new Promise((r=>{const s=new e,a=new n;a.setDecoderPath("./draco/"),s.setDRACOLoader(a),s.load(o,(e=>{r(e)}))}))},a=function(e){return new Promise((n=>{(new o).load(e,(e=>{n(e)}))}))},t=function(e){return new Promise((n=>{(new r).load(e,(e=>{n(e)}))}))};export{t as f,s as g,a as o};
